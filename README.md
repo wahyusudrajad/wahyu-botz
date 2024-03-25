@@ -94,5 +94,5 @@ Untuk menghubungkan ke database, pakai mongodb
 
 
 ----|----
-[Nurutomo](https://github.com/wahyusudrajad) | [Wahyu-Botz](https://github.com/wahyusudrajad)
+[Wahyu-Botz](https://github.com/wahyusudrajad) | [Wahyu-Botz](https://github.com/wahyusudrajad)
  Penulis / Pencipta | Penerjemah
